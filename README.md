@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://fb.com/7.asm.pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7.asm.pro" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/asmpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asmpy" height="30" width="40" /></a>
+ <a href="https://asmpro7.github.io/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114514662/237755654-77d60703-e2d3-437d-8633-1a8284f5094e.svg" alt="asmpy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
