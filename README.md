@@ -15,4 +15,6 @@
  
 <img src="https://r-eadme-s-tats.vercel.app/api/top-langs?username=asmpro7&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asmpro7" />
 
+# Recent Activity :zap:
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
