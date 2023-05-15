@@ -18,3 +18,8 @@
 <!--# Recent Activity :zap:-->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+## 🐍 A Snake VS my Contributions
+	
+<p align = "center">
+	<img src = "https://github.com/asmpro7/asmpro7/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
