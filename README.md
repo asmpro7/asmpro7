@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <p align="center"><a href="http://asmpro7.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=asmpro7&amp;theme=dracula&amp;no-frame=false&margin-w=15" alt="trophy"></a></p>
+      <p align="center"><a href="http://asmpro7.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=asmpro7&amp;theme=dracula&amp;no-frame=false&margin-w=15&margin-h=15&column=-1" alt="trophy"></a></p>
     </td>
   </tr>
 </table>
