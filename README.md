@@ -6,7 +6,7 @@
       <p align="left"><img align="center" src="https://r-eadme-s-tats.vercel.app/api?username=asmpro7&show_icons=true&theme=dracula&locale=en" alt="asmpro7" /></p>
     </td>
     <td>
-      <p align="right"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asmpro7&amp;theme=dracula&amp;border_radius=5&amp;date_format=j%2Fn%5B%2FY%5D&amp;card_width=500" alt="GitHub Streak"></a></p>
+      <p align="right"><a href="https://asmpro7.github.io/"><img src="https://streak-stats.demolab.com?user=asmpro7&amp;theme=dracula&amp;border_radius=5&amp;date_format=j%2Fn%5B%2FY%5D&amp;card_width=500" alt="GitHub Streak"></a></p>
     </td>
   </tr>
   <tr>
@@ -35,4 +35,4 @@
 <!--# Recent Activity :zap:-->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=36BCF7FF&center=true&vCenter=true&width=1000&lines=Medical+Student+at+MU;Medical+Resercher;Python+Developer;Data+analyst;Plugin+Author+at+Flow;Bot+Maker+at+telegram;Youtuber;Writer;Tech+Geek)](https://asmpro7.github.io/)
