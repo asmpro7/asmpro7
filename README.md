@@ -35,4 +35,4 @@
 <!--# Recent Activity :zap:-->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=36BCF7FF&center=true&vCenter=true&width=1000&lines=Medical+Student+at+MU;Medical+Resercher;Python+Developer;Data+analyst;Plugin+Author+at+Flow;Bot+Maker+at+telegram;Youtuber;Writer;Tech+Geek)](https://asmpro7.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=36BCF7FF&center=true&vCenter=true&width=1000&lines=Medical+Student+at+MU;Medical+Researcher;Python+Developer;Data+analyst;Plugin+Author+at+Flow;Bot+Maker+at+telegram;Youtuber;Writer;Tech+Geek)](https://asmpro7.github.io/)
